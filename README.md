@@ -42,9 +42,9 @@ cat /etc/apt/sources.list.d/google-chrome.list
 ```
 
 ## Installation
-1. Clone or download the repository from [here](https://github.com/BOTCAHX/whatsapp-gpt).
+1. Clone or download the repository from [here](https://github.com/rdpfreenot/botku).
 ```sh
-git clone https://github.com/BOTCAHX/whatsapp-gpt
+git clone https://github.com/rdpfreenot/botku
 ```
    
 2. Open your terminal and navigate to the project directory.
